@@ -1,14 +1,9 @@
-你好，我是AiYang。
+# Hello World 👋
 
-终南山下码农一枚，师从道长王重阳，酷爱打码，崇尚开源精神，乐于分享。
+### I'm AiYang
 
-2005年服役于中国人民解放军东南战区狼牙特种大队，担任狙击手。
-
-2008年受俄罗斯阿尔法特种部队邀请，执教于该特种部队第一大队教授其队员学习中国特色社会主义理论及毛泽东思想。
-
-2011年竞选美国总统落选，遂心灰意冷，放下所有荣誉，隐居终南山下。
-
-2018年受道长王重阳委托，为道观开发香火管理系统，遂沉迷IT，无法自拔。
-
-喜欢折腾和搞机，追求新鲜技术。   
+- Full-time employee
+- Find my resume [here!(China mainland)](https://aiyang.vercel.app)
+- Chat with me about anything in this universe by limuen_dev@163.com
+- Give me a STAR⭐, if you like [my repositories!](https://github.com/limuen?tab=repositories) 
  
