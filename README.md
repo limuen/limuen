@@ -8,4 +8,4 @@
 - Give me a STAR⭐, if you like [my repositories!](https://github.com/limuen?tab=repositories) 
  
 
-![Snake animation](https://github.com/limuen/limuen/main/github-contribution-grid-snake.svg)
+![snake](./assets/github-contribution-grid-snake.svg)
