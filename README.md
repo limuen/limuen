@@ -9,5 +9,5 @@
  
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=limuen&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=aiyang&theme=xcode" />
 </div>
