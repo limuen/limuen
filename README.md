@@ -8,4 +8,6 @@
 - Give me a STAR⭐, if you like [my repositories!](https://github.com/limuen?tab=repositories) 
  
 
-![snake](./assets/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=limuen&theme=xcode" />
+</div>
