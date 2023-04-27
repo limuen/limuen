@@ -7,3 +7,5 @@
 - Chat with me about anything in this universe by limuen_dev@163.com
 - Give me a STAR⭐, if you like [my repositories!](https://github.com/limuen?tab=repositories) 
  
+
+![Snake animation](https://github.com/limuen/limuen/blob/output/github-contribution-grid-snake.svg)
