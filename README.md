@@ -8,6 +8,5 @@
 - Give me a STAR⭐, if you like [my repositories!](https://github.com/limuen?tab=repositories) 
  
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=aiyang&theme=xcode" />
-</div>
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=limuen&theme=xcode)](https://github.com/limuen)
+
