@@ -10,8 +10,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
- 
-
-![](https://raw.githubusercontent.com/limuen/limuen/master/assets/github-contribution-grid-snake.svg)
 
 
