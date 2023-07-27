@@ -12,3 +12,5 @@
 </div>
 
 
+
+> I'm looking for a job recently, if you think I'm pretty good, you can give me a chance. 😋
