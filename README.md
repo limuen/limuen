@@ -2,8 +2,10 @@
 
 ## I am a Frontend developers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
+- 📍 HangZhou, China
 - 🌌 curious about everything
-- 🌱 love to learn new things 
+- 🌱 love to learn new things
+- 📚 Want to acquire all the knowledge
 - 🤓 currently researching the React source code
 
 <br /> 
