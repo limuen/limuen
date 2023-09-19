@@ -6,7 +6,7 @@
 - 🌌 curious about everything
 - 🌱 love to learn new things
 - 📚 Want to acquire all the knowledge
-- 🤓 currently researching the React source code
+- 🤓 currently working on a shared electric vehicle project
 
 <br /> 
 
