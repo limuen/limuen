@@ -13,7 +13,7 @@
 ### 📫 Reach me:
 
 - **QQ** : 304115596
-- **WeChat** : 19941208872
+- **WeChat** : AiYangLiam
 - **E-mail** : limuen_dev@163.com
 
 > 正在有想法跳槽，有意加我WX
