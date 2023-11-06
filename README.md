@@ -20,8 +20,8 @@
 
 ### 🏠 Blog:
 
-- **[https://aiyang.vercel.app](LiamBlog)**
-- **[https://limuen.github.io](LiamNotes)**
+- **[LiamBlog](https://aiyang.vercel.app)**
+- **[LiamNotes](https://limuen.github.io)**
   
 ### 💁‍♂️ Introduce
 
