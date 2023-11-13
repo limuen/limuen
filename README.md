@@ -16,7 +16,7 @@
 - **WeChat** : AiYangLiam
 - **E-mail** : limuen_dev@163.com
 
-> 正在有想法跳槽，有意加我WX
+> 正在有想法跳槽，有意加我WX聊
 
 ### 🏠 Blog:
 
