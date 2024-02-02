@@ -28,6 +28,7 @@
 - 🌌 curious about everything
 - 🌱 love to learn new things
 - 📚 Want to acquire all the knowledge
+- 🎯 My focus is making things simpler, understandable, minimalistic, reusable
 - 🤓 currently working on a shared electric vehicle project
 
 <br /> 
