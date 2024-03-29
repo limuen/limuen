@@ -28,8 +28,6 @@
 - 📚 Want to acquire all the knowledge
 - 🎯 My focus is making things simpler, understandable, minimalistic, reusable
 
-<br /> 
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
