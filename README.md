@@ -31,7 +31,7 @@
 - 🌱 love to learn new things
 - 📚 Want to acquire all the knowledge
 - 🎯 My focus is making things simpler, understandable, minimalistic, reusable
-
+- 🚀 I am currently working on leasing related projects
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
