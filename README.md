@@ -21,7 +21,6 @@
 - **E-mail** : limuen_dev@163.com
 
 ### 🏠 Blog:
-- **[Limuen](https://limuen.vercel.app/)**
 - **[LiamBlog](https://aiyang.vercel.app)**
 - **[LiamNotes](https://limuen.github.io)**
   
