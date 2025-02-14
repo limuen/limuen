@@ -30,7 +30,7 @@
 - 🌱 love to learn new things
 - 📚 Want to acquire all the knowledge
 - 🎯 My focus is making things simpler, understandable, minimalistic, reusable
-- 🚀 I am currently working on leasing related projects
+- 🤔 I’m currently learning how to be a better Full-Stack Developer
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
