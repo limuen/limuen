@@ -1,7 +1,5 @@
 # Hello world, I'm AiYang 👋
 
-> A Front end developer from **HangZhou, China**.
-
 ### 🏗️ Learning:
 
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
