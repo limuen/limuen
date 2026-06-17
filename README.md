@@ -11,7 +11,6 @@
 
 ### 📫 Reach me:
 
-- **QQ** : 304115596
 - **WeChat** : AiYangLiam
 - **E-mail** : limuen_dev@163.com
 
